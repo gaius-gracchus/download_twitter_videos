@@ -1,0 +1,14 @@
+# ignore everything
+*
+
+# don't ignore gitignore
+!.gitignore
+
+# don't ignore Python files
+!*.py
+
+# don't ignore bash files
+!*.sh
+
+# don\t ignore README
+!README.md
